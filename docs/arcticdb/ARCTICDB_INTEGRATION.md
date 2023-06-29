@@ -1,6 +1,6 @@
 # D-Tale/ArcticDB Integration
 
-> :warning **Pre-built binaries for ArcticDB only available for Linux and Windows**: MacOS binaries are coming soon!
+> ⚠️ **Pre-built binaries for ArcticDB only available for Linux and Windows**: MacOS binaries are coming soon!
 
 At long last! There is finally a solution for navigating the underlying data of your ArcticDB databases. Once again, the solution is D-Tale!
 
